@@ -1,0 +1,14 @@
+body {
+    background-color: #b2b4cf;
+    color: rgb(0, 0, 0);
+    font-family: Noto Serif Display;
+    font-size: 22px;
+}
+.reverse {
+
+    background-color: rgb(155, 96, 223) !important;
+    color: rgb(219, 184, 184);
+}
+p {
+    padding: 90px;
+}
